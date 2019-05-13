@@ -1,0 +1,2 @@
+INSERT INTO MERCHANT (id, name, email, phoneno) VALUES (1, 'Rolex','test@rolex.com','+6593556755');
+INSERT INTO MERCHANT (id, name, email, phoneno) VALUES (2, 'Changi Airport Lounge','changilounge@changi.com','+6593556755');
